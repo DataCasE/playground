@@ -1,17 +1,17 @@
-rider,date,stage,rank
-Tom,2018-05-04,stage 1,1
-Dennis,2018-05-04,stage 1,2
-Chris,2018-05-04,stage 1,3
-Fabio,2018-05-04,stage 1,4
-Tom,2018-05-05,stage 2,2
-Dennis,2018-05-05,stage 2,1
-Chris,2018-05-05,stage 2,3
-Fabio,2018-05-05,stage 2,4
-Tom,2018-05-06,stage 3,2
-Dennis,2018-05-06,stage 3,1
-Chris,2018-05-06,stage 3,4
-Fabio,2018-05-06,stage 3,3
-Tom,2018-05-08,stage 4,1
-Dennis,2018-05-08,stage 4,4
-Chris,2018-05-08,stage 4,2
-Fabio,2018-05-08,stage 4,3
+Date,Rider,Stage,Rank
+2018-05-04,Tom,stage 1,1
+2018-05-04,Dennis,stage 1,2
+2018-05-04,Chris,stage 1,3
+2018-05-04,Fabio,stage 1,4
+2018-05-05,Tom,stage 2,2
+2018-05-05,Dennis,stage 2,1
+2018-05-05,Chris,stage 2,3
+2018-05-05,Fabio,stage 2,4
+2018-05-06,Tom,stage 3,2
+2018-05-06,Dennis,stage 3,1
+2018-05-06,Chris,stage 3,4
+2018-05-06,Fabio,stage 3,3
+2018-05-08,Tom,stage 4,1
+2018-05-08,Dennis,stage 4,4
+2018-05-08,Chris,stage 4,2
+2018-05-08,Fabio,stage 4,3
